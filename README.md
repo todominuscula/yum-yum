@@ -35,7 +35,7 @@ For gray images, use placeholders (you can use any from [https://placeholder.com
 <details>
   <summary>Click here to see an example</summary>
     
-  ![](https://via.placeholder.com/800x600)
+  ![placeholder](https://via.placeholder.com/800x600)
 
 </details>
 
