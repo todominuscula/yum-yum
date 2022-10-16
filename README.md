@@ -34,7 +34,7 @@ For gray images, use placeholders (you can use any from [https://placeholder.com
 
 <details>
   <summary>Click here to see an example</summary>
-    
+
   ![placeholder](https://via.placeholder.com/800x600.jpg)
 
 </details>
@@ -49,7 +49,7 @@ It's up to you.
 
 <details>
   <summary>Click here to see the details </summary>
-  
+
   ![mobile](https://s3-us-west-2.amazonaws.com/s.cdpn.io/67030/19_Yum-Yum_home_mobile.jpg)
 
 </details>
