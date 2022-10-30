@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@font-face {
+    font-family: 'Intro';
+    src: url('intro-regular-webfont.woff2') format('woff2'),
+         url('intro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Intro';
+    src: url('intro-black-webfont.woff2') format('woff2'),
+         url('intro-black-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+body {
+    font-family: "lato" , sans-serif;
+    width: "px400" ; height: "px538";
+    
+
+}
